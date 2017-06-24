@@ -1,6 +1,6 @@
 $(document).ready(function() {
-    pre_content = $("#jalpc_site_pv").html();
-    $("#jalpc_site_pv").html(pre_content);
+    pre_content = $("#somococo_site_pv").html();
+    $("#somococo_site_pv").html(pre_content);
     $.ajax({
         type: "get",
         async: false,
